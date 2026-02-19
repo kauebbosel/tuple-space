@@ -1,0 +1,4 @@
+tasks.json
+c_cpp_properties.json
+*.exe
+*.vscode
